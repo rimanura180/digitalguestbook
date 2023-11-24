@@ -11,3 +11,4 @@ class DigitalGuestBook extends Controller
         return view('DigitalGuestBook', $data);
     }
 }
+  
